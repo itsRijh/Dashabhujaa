@@ -76,6 +76,4 @@ ii) Auto crime report to Police with the help of CallChimp based on severity
 
 
 
-# Dashabhuja
 
-This guide details how to integrate webhook functionality into your frontend application using the callchimp-webhook library by Dashabhuja (https://github.com/Dashabhuja/callchimp-webhook). Webhooks allow external services to notify your application of specific events, enabling real-time updates and interactions.
